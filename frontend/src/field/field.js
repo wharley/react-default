@@ -4,7 +4,6 @@ import { connect } from 'react-redux'
 class Field extends Component {
 	render() {
 		return (
-
 			<div>
 				<h1>{this.props.value}</h1>
 			</div>
